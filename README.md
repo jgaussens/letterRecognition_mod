@@ -19,3 +19,4 @@ Classify the 26 letters of the French Alphabet given a vector of 15 integers.
 * scraping.ipynb: Scrap the given dataset
 * Data_Viz.ipynb: Visualisation of the Data
 * Modelisation.ipynb: Classification + Hyperparameter's optimisation
+* PPT_GAUSSENS_MEZIN_PRESENTATION_CLASSIFICATION_LETTER: Powerpoint de Présentation
